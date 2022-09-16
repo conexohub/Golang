@@ -1,0 +1,3 @@
+Os desenvolvedores do CLI preferem go para portabilidade, desempenho e facilidade de criação.
+As interfaces de linha de comando (CLIs), ao contrário das interfaces gráficas de usuário (GUIs), são somente textos.
+Os aplicativos de nuvem e infraestrutura são principalmente baseados em CLI devido à sua fácil automação e recursos remotos.
