@@ -1,17 +1,14 @@
 # Golang
-Why you should learn GO
-
-
-// You can edit this code!
-// Click here and start typing.
 package main
 
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, 世界")
+	fmt.Println("Olá Visitante, venha fazer um tur por Go em https://go-tour-br.appspot.com/welcome/1")
 }
 
-Hello, 世界
+Resultado da função Go:
+
+Olá Visitante, venha fazer um tur por Go em https://go-tour-br.appspot.com/welcome/1
 
 Program exited.
